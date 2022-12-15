@@ -1,4 +1,5 @@
 {
+    {
     "gamesData": [
 		{
 			"appVersion": "5",
@@ -20,8 +21,12 @@
             "appName": "NailArt",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.nail.fashiongame.stylist.girlssalon3D"
         }
-    ]
+    ],
+
     "adsData": [
+          {
          "canShowCP":true
+          }
     ]
+}
 }
