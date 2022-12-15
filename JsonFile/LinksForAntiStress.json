@@ -1,5 +1,4 @@
 {
-    {
     "gamesData": [
 		{
 			"appVersion": "5",
@@ -28,5 +27,4 @@
          "canShowCP":true
           }
     ]
-}
 }
