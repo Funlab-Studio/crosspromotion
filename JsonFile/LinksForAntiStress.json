@@ -24,7 +24,7 @@
 
     "adsData": [
           {
-         "canShowCP":true
+         "canShowCP":false
           }
     ]
 }
