@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+		{
+			"appVersion": "1",
+            "appName": "PrincessWeddingFashionGames",
+            "appLink": "https://play.google.com/store/apps/details?id=com.casualthreads.princesswedding.fashion.games"
+        },
+		{
+	        "appVersion": "1",
+            "appName": "IndianBrideMakeupDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.casualthreads.indianbride.makeup.dressup"
+        },
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
